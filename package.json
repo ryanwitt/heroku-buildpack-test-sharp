@@ -1,0 +1,12 @@
+{
+  "name": "heroku-buildpack-vips-test-sharp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "sharp": "^0.11.4"
+  },
+}
+
