@@ -1,2 +1,3 @@
 https://github.com/alex88/heroku-buildpack-vips.git
+https://github.com/mojodna/heroku-buildpack-cairo.git
 https://github.com/heroku/heroku-buildpack-nodejs.git
